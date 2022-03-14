@@ -14,8 +14,8 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['6289625556161','62896255561613'] // Put your number here //owner eval
+global.linkGC = ['https://chat.whatsapp.com/DcZLGtASDiQDDH1RGtmWvP', ''] // ganti jadi group lu
+global.owner = ['6283897873987','6282268736623','6281298733743'] // Put your number here //owner eval
 global.kontak = ['6289625556161','62896255561613'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6289625556161','601164215501','60166408295','601161197507','601156232697','601172962735','60182387590','60109211153','6281391552752'] // Premium user has unlimited limit
@@ -46,28 +46,29 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'https://github.com/MASTERMAN200'
+namaig = 'https://instagram.com/thelast_owl'
+namagithub = 'https://github.com/DarknessNightmare \n https://github.com/Dedytobing'
 kasihcaption = `Nih kak`
-namakontak1 = 'Pilar Owner Bot'
-namakontak2 = 'Caca Admin Bot'
+namakontak1 = '3gp Owner Bot'
+namakontak2 = 'Admin Bot'
+namakontak3 = 'Admin Bot'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Zeus Botz' // ganti aja
-global.author = 'Zeus Botz' // ganti aja
+global.packname = '3gp Bot' // ganti aja
+global.author = 'Have nice day' // ganti aja
 
 //yyy
 bc = 'ZeusBotz' //ZeusBotz Broadcast
-footer = '\n© ZeusBotz'
-namabot = 'ZEUS BOTZ'
+footer = '\n© 3gp'
+namabot = '3gp'
 namalu = 'PILAR'
-watermark = 'ZeusBotz' //ganti aja
+watermark = '3gp' //ganti aja
 
 // 
 wait = '_*Tunggu Sebentar...*_'
-global.botwm = 'ZeusBotz'
+global.botwm = '3gp'
 global.wait = '_*Tunggu Sebentar...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
@@ -79,7 +80,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.image = 'https://telegra.ph/file/f96eee5c2c75bd32c1f58.png'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 999 // The higher, The harder levelup
+global.multiplier = 50 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
