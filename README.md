@@ -63,7 +63,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AlyaaXd/rfkbotV2-bot
+git clone https://github.com/DarknessNightmare/Zeus-BotzV2
 cd rfkbotV2
 npm install
 npm update
