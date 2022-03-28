@@ -48,8 +48,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/AlyaaXd/rfkbotV2
-cd rfkbotV2
+git clone Zeus-BotzV2
+cd Zeus-BotzV2
 npm install
 npm update
 ```
